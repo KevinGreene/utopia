@@ -9,7 +9,11 @@
     "components": {
         "powers": {
             "output": "powers.pdf"
+        },
+        "rulers": {
+            "output": "rulers.pdf"
         }
+
     }
 }
 
