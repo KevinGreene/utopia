@@ -2,3 +2,4 @@ type,name,title,instructions,reward,reward_text
 Human,Harlus,The Great King,Two cities (three yellow) within 3 tiles of each other,6 vp,Immediately perform a 'Create Civilization' action
 Elf,Melia,Swamp Huntress,Two connected hexes with at least 2 blue cubes and 1 green cube,2 vp,Whenever a new swamp (2 blue 1 green) is created - score 1 vp
 Dwarf,Kilgor,Gilded Priest,3 brown cubes and 2 yellow cubes in the same tile,0 vp,At the end of the game score 5 VPs for each hex with at least 3 brown and 2 yellow cubes
+Orc,Mirbo,Nihilistic Shaman,A tile empty of cubes except for consecration,2 vp,Instead of playing an intent and an object you can play two objects of the same name as 'Destroy [Object]'
