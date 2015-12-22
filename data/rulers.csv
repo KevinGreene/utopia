@@ -1,5 +1,16 @@
 type,name,title,instructions,reward,reward_text
-Human,Harlus,The Great King,Two cities (three yellow) within 3 tiles of each other,6 vp,Immediately perform a 'Create Civilization' action
-Elf,Melia,Swamp Huntress,Two connected hexes with at least 2 blue cubes and 1 green cube,2 vp,Whenever a new swamp (2 blue 1 green) is created - score 1 vp
-Dwarf,Kilgor,Gilded Priest,3 brown cubes and 2 yellow cubes in the same tile,0 vp,At the end of the game score 5 VPs for each hex with at least 3 brown and 2 yellow cubes
-Orc,Mirbo,Nihilistic Shaman,A tile empty of cubes except for consecration,2 vp,Instead of playing an intent and an object you can play two objects of the same name as 'Destroy [Object]'
+Human,Harlus,The Great King,Two cities (three yellow) within 3 tiles of eachother,6 VP,Immediately perform a 'Create Civilization' action
+Human,Emma,The Great Queen,A city (three yellow) within 2 tiles of each other type of cube,6 VP,Immediately add a cube of any color to a space that already contains that cube
+Human,Miriam,Master Duelist,Move a village away from a town or city,4 VP,When an opponent uses 'Destroy Village' you can instead move it one tile away
+Human,Telia,Folk Hero,Four villages or towns within 5 squares of the others,3 VP, At the end of the game 1 VP for each village or town -1 for each city
+Human,Jixic,Lich King,A desecrated city adjacent to a desecrated village,1 VP,Instead of playing an intent and an object you can play two objects of the same name as 'Desecrate [Object]'
+Human,Gerard Fulke,Huntsman,Three adjacent hexes with at least 2 green cubes,0 VP,2 VP At the end of the game for each hex with at least 2 green cubes
+Elf,Melia,Swamp Huntress,Two connected hexes with at least 2 blue cubes and 1 green cube,2 VP,Whenever a new swamp (2 blue 1 green) is created - score 1 VP
+Elf,Ronobo,Transcendentalist Writer,One hex with at least one of every noun except civilization,2 VP,Immediately add a cube of each non-Civilization color to a hex that does not have any of that color
+Elf,Mir,Feral Druid,One hex with at least 2 green and 2 red cubes,1 VP,Immediately perform a 'Destroy Civilization' 'Create Plant' and 'Create Animal' in a single hex
+Dwarf,Kilgor,Gilded Priest,3 brown cubes and 2 yellow cubes in the same tile,0 VP,At the end of the game score 5 VPs for each hex with at least 3 brown and 2 yellow cubes
+Dwarf,Kilgor,Gilded Priest,3 brown cubes and 2 yellow cubes in the same tile,0 VP,At the end of the game score 5 VPs for each hex with at least 3 brown and 2 yellow cubes
+Dwarf,Gokran Steelchin,Master Goat Shepard,A hex with 3 brown cubes and at least 1 red cube,3 VP,When you cast `Move Animal` - gain 1 VP
+Orc,Mirbo,Nihilistic Shaman,A tile empty of cubes except for consecration,2 VP,Instead of playing an intent and an object you can play two objects of the same name as 'Destroy [Object]'
+Orc,Gro'nak,The Brutal Conquerer,Three adjacant villages (1 yellow cube),1 VP,Each time you play `Destroy Civilization` gain VPs equal to the remaining civilization cubes on target hex
+Orc,Orbak,Death Bringer,A desecrated tile with at least 2 animals,4 VP,Immediately perform 2 `Destroy Animal` actions

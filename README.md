@@ -1,8 +1,8 @@
-## World Building Game
+## Utopia
 
 ## Background
 
-In this game, players are powerful creatures trying to mold the earth to their will. They all have secret goals they must accomplish.
+In this game, players take on the role of gods, trying to craft a world where they reign supreme. To do this, they must speak, bringing about creation and destruction with their mere words.
 
 ## Magic
 
@@ -23,3 +23,25 @@ Magic is made up of intents and objects, or verbs and nouns. When a player plays
 * Civilization - Yellow
 * Animals - Red
 * Plants - Green
+
+## Setup
+
+First, layout the tiles / take the hex sheets. Then, for each hex, draw a power card. If it has `Create` as the intent, add the object on the card to the hex.
+
+Then, shuffle all power cards, and all ruler cards. Deal four cards of each type to each player. Last person to affect the landscape goes first.
+
+## Gameplay
+
+On your turn, you must play all four cards in your hand.
+
+To speak, pick two cards. Use the intent (verb) of one, and the object (noun) of another. This will let you add, remove, or move a cube.
+
+Each time you speak, you may appease a ruler card from your hand. Draw a new ruler.
+
+After you've played all cards in your hand, draw 4 more cards, then move to the next player.
+
+## Game End and Scoring
+
+After 12 rounds, the game ends.
+
+Add all victory points from completed rulers.
