@@ -44,4 +44,4 @@ After you've played all cards in your hand, draw 4 more cards, then move to the 
 
 After 12 rounds, the game ends.
 
-Add all victory points from completed rulers.
+Add all victory points from completed rulers who score bonus points. In addition, for each race, the person with the most of that race earns the title "Leader of [Race]" worth 5 VPs.

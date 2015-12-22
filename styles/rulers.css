@@ -1,5 +1,12 @@
 .content {
   width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  padding: 10px;
+}
+.content .border {
+  width: 100%;
+  height: 100%;
 }
 .header {
   padding-top: 15px;
@@ -17,4 +24,19 @@
 .card-details .instructions {
   border-bottom: 3px black solid;
   padding-bottom: 20px;
+}
+.border {
+  box-sizing: border-box;
+}
+.human.border {
+  border: 1px solid grey;
+}
+.elf.border {
+  border: 1px solid green;
+}
+.dwarf.border {
+  border: 1px solid gold;
+}
+.orc.border {
+  border: 1px solid orange;
 }
