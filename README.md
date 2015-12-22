@@ -26,7 +26,9 @@ Magic is made up of intents and objects, or verbs and nouns. When a player plays
 
 ## Setup
 
-First, layout the tiles / take the hex sheets. Then, for each hex, draw a power card. If it has `Create` as the intent, add the object on the card to the hex.
+First, layout the tiles / take the hex sheets. It should be a regular hexagon with side length 6. 
+
+Then, for each hex, draw a power card. If it has `Create` as the intent, add the object on the card to the hex.
 
 Then, shuffle all power cards, and all ruler cards. Deal four cards of each type to each player. Last person to affect the landscape goes first.
 
