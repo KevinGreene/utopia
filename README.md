@@ -65,23 +65,18 @@ The idea behind the game is that you'll end up with a world that can be used as 
 * 1 Water - River
 * 2 Water - Pond
 * 3 Water - Lake
-
 * 1 Earth - Valley
 * 2 Earth - Hill
 * 3 Earth - Mountain
-
 * 1 Civilization - Village
 * 2 Civilization - Town
 * 3 Civilization - City
-
 * 1 Animal - Some life
 * 2 Animals - Wandering herds of animals
 * 3 Animals - Huge groups of animals, abundant life
-
 * 1 Plant - Light woods, heavy plains
 * 2 Plants - Forest
 * 3 Plants - Jungle
-
 * 2 Plant, 1 Water - Swamp
 * 1+ Civ, 2+ Earth - Mining Town
 
