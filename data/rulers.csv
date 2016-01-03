@@ -1,16 +1,34 @@
-type,name,title,instructions,reward,reward_text
-Human,Harlus,The Great King,Two cities (three yellow) within 3 tiles of eachother,6 VP,Immediately perform a 'Create Civilization' action
-Human,Emma,The Great Queen,A city (three yellow) within 2 tiles of each other type of cube,6 VP,Immediately add a cube of any color to a space that already contains that cube
-Human,Miriam,Master Duelist,Move a village away from a town or city,4 VP,When an opponent uses 'Destroy Village' you can instead move it one tile away
-Human,Telia,Folk Hero,Four villages or towns within 5 squares of the others,3 VP, At the end of the game 1 VP for each village or town -1 for each city
-Human,Jixic,Lich King,A desecrated city adjacent to a desecrated village,1 VP,Instead of playing an intent and an object you can play two objects of the same name as 'Desecrate [Object]'
-Human,Gerard Fulke,Huntsman,Three adjacent hexes with at least 2 green cubes,0 VP,2 VP At the end of the game for each hex with at least 2 green cubes
-Elf,Melia,Swamp Huntress,Two connected hexes with at least 2 blue cubes and 1 green cube,2 VP,Whenever a new swamp (2 blue 1 green) is created - score 1 VP
-Elf,Ronobo,Transcendentalist Writer,One hex with at least one of every noun except civilization,2 VP,Immediately add a cube of each non-Civilization color to a hex that does not have any of that color
-Elf,Mir,Feral Druid,One hex with at least 2 green and 2 red cubes,1 VP,Immediately perform a 'Destroy Civilization' 'Create Plant' and 'Create Animal' in a single hex
-Dwarf,Kilgor,Gilded Priest,3 brown cubes and 2 yellow cubes in the same tile,0 VP,At the end of the game score 5 VPs for each hex with at least 3 brown and 2 yellow cubes
-Dwarf,Kilgor,Gilded Priest,3 brown cubes and 2 yellow cubes in the same tile,0 VP,At the end of the game score 5 VPs for each hex with at least 3 brown and 2 yellow cubes
-Dwarf,Gokran Steelchin,Master Goat Shepard,A hex with 3 brown cubes and at least 1 red cube,3 VP,When you cast `Move Animal` - gain 1 VP
-Orc,Mirbo,Nihilistic Shaman,A tile empty of cubes except for consecration,2 VP,Instead of playing an intent and an object you can play two objects of the same name as 'Destroy [Object]'
-Orc,Gro'nak,The Brutal Conquerer,Three adjacant villages (1 yellow cube),1 VP,Each time you play `Destroy Civilization` gain VPs equal to the remaining civilization cubes on target hex
-Orc,Orbak,Death Bringer,A desecrated tile with at least 2 animals,4 VP,Immediately perform 2 `Destroy Animal` actions
+"race","name","title","instructions","reward","reward_text"
+"Human","Harlus VI","The Great King","Two cities (three yellow) within 3 tiles of eachother","6 VP","Immediately perform a 'Create Civilization' action"
+"Human","Emma II","The Great Queen","A city (three yellow) within 2 tiles of each other type of cube","6 VP","Immediately add a cube of any color to a space that already contains that cube"
+"Human","Miriam De Boer","The Master Duelist","Move a village away from a town or city","4 VP","When an opponent uses 'Destroy Village', you can instead move it one tile away"
+"Human","Telia Morais","The Folk Hero","Four villages or towns within 5 squares of the others","3 VP","At the end of the game, score 1 VP for each village or town, -1 VP for each city"
+"Human","Jixic","The Lich King","A desecrated city adjacent to a desecrated village","1 VP","Instead of playing an intent and an object you can play two objects of the same name as 'Desecrate [Object]'"
+"Human","Gerard Fulke","The Lumberjack","Three adjacent hexes with at least 2 green cubes","0 VP","2 VP At the end of the game for each hex with at least 2 green cubes"
+"Human","Tamentha I","The Dragon Queen","Destroy either Civilization or Animals on a tile with both","0 VP","Whenever you perform `Destroy Animals` or `Destroy Civilization` gain 1 VP."
+"Human","Nika Kahl","The Dragon Huntress","Two hexes within 2 that have at least 3 Animal / Civilization cubes","3 VP","Once per game, prevent either `Destroy Animals` or `Destroy Civilization`"
+"Human","Shandor Blewitt","The Mimic","Two identical hexes with at least 5 cubes each within 3 hexes","2 VP","Immediately set another hex within 3 spaces to be the same as the two that triggered this card"
+"Human","Jax Toscano","The Necromancer","Cast `Create Animal` on a desecrated hex","3 VP","Can use `Destroy Animal` as `Create Animal`"
+"Human","Leonardo Vale","The Thief","Move a cube an opponent created their previous turn","3 VP","Immediately cast `Move` on any cube"
+"Elf","Melia","The Swamp Huntress","Two connected hexes with at least 2 blue cubes and 1 green cube","2 VP","Whenever a new swamp (2 blue 1 green) is created - score 1 VP"
+"Elf","Ronobo","The Transcendentalist","One hex with at least one of every noun except civilization","2 VP","Immediately add a cube of each non-Civilization color to a hex that does not have any of that color"
+"Elf","Mir","The Feral Druid","One hex with at least 2 green and 2 red cubes","1 VP","Immediately perform a 'Destroy Civilization' 'Create Plant' and 'Create Animal' in a single hex"
+"Elf","Elas","The Sorcerer","A neutral spot with at least 2 animals, 1 water, and no civilization","3 VP","Immediately perform a `Destroy X` and `Create X` in the same tile, where X in [Animal, Water, Earth]"
+"Elf","Faylen","The Warlock","A desecrated hex with at least 1 animal, 1 earth, and 1 water","2 VP","When you cast `Create Animal` immediately cast `Desecrate` on the same hex"
+"Elf","Tinlef","The Illusionist","A hex with 3 animals, at least 1 plant, and no civilization","4 VP","Once per game, can play two cards as whatever they like"
+"Dwarf","Kilgor Goldbeard","The Gilded Priest","3 brown cubes and 2 yellow cubes in the same tile","0 VP","At the end of the game score 5 VPs for each hex with at least 3 brown and 2 yellow cubes"
+"Dwarf","Gokran Steelchin","The Goat Shepard","A hex with 3 brown cubes and at least 1 red cube","3 VP","When you cast `Move Animal` - gain 1 VP"
+"Dwarf","Grundun Bouldertoe","The Inquisitor","Three adjacent consecrated tiles","3 VP","Can use `Desecrate` as `Consecrate`."
+"Dwarf","Hulgar Wraithmaker","The Dominant Warlord","`Destroy Civilization` on a tile with at least 2 brown cubes","2 VP","Immediately cast `Create Civilization` on a hex with at least 2 brown cubes"
+"Dwarf","Northra Frostgranite","The Abjurer","A city with at least 2 earth on either side","2 VP","1 VP for each earth next to at least a town at the end of the game"
+"Orc","Mirbo","The Nihilistic Shaman","A tile empty of cubes except for consecration","2 VP","Instead of playing an intent and an object you can play two objects of the same name as 'Destroy [Object]'"
+"Orc","Gro'nak","The Brutal Conquerer","Three adjacant villages (1 yellow cube)","1 VP","Each time you cast `Destroy Civilization` gain VPs equal to the remaining civilization cubes on target hex"
+"Orc","Xaguk","The Barbarian","2 adjacent tiles with at least 1 plant and 1 animal but no civilization","2 VP","Immediately cast `Destroy Civilization`"
+"Orc","Orbak","The Death Bringer","A desecrated tile with at least 2 animals","4 VP","Immediately perform 2 `Destroy Animal` actions"
+"Orc","Urag","The Blackguard","Three adjacent desecrated tiles","3 VP"," Can use `Consecrate` as `Desecrate`"
+"Orc","Lash","The Poisoner","A desecrated hex with at least 1 animal, 1 plan, and 1 water","1 VP","Each opponent must immediately discard two cards, if able"
+,,"The Fisherman","Two connected lakes with at least one animal each","2 VP","Immediately cast `Create Civilization` twice, once in each hex used to complete this card"
+,,"The Pirate Captain","An ocean (3 blue) adjacent to at least a village (1 yellow)","4 VP","At the end of the game scores 1 VP for every Civilization cube adjacent to an ocean"
+,,"The Ferryman","A straight line of rivers made up of at least three hexes","X VP","X = Number of rivers used to complete this card. Add a cube of your choice at each end of the river used to complete this card"
+,,"The Conqueror","A town (2 Civilization) with an earth and a plant","3 VP","Immediately cast `Move Civilization` to turn the town into a city"
+,,"The Beastmaster","A Hex with at least 1 Plant, 3 Animals","2 VP","Can cast `Create Animals` as `Move Animals`"

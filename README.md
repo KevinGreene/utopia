@@ -78,5 +78,15 @@ The idea behind the game is that you'll end up with a world that can be used as 
 * 2 Plants - Forest
 * 3 Plants - Jungle
 * 2 Plant, 1 Water - Swamp
-* 1+ Civ, 2+ Earth - Mining Town
+* 1+ Civ, 2+ Earth - Mining Village / Town / City
+
+
+## Assets
+
+Assets all acquired through the noun project
+
+Magic: Round-bottom Flask by Trace Lexington Byrd from the Noun Project
+Stealth: Dagger by Madeleine Bennett from the Noun Project
+Religion: Celtic Knot by Martin Smith from the Noun Project
+Might: Shield by Creative Stall from the Noun Project
 

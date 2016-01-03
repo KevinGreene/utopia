@@ -1,10 +1,10 @@
 .content
-  .border(class=type.toLowerCase())
+  .border(class=typeof race === "undefined" ? "" : race.toLowerCase())
     .header
       .header
         .name=name
         .title=title
-        .type=type
+        .race=race
 
     .card-details
       p.instructions=instructions
