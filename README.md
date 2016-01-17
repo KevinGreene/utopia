@@ -34,13 +34,16 @@ Magic is made up of intents and objects, or verbs and nouns. When a player plays
 
 First, layout the tiles / take the hex sheets. It should be a regular hexagon with side length 6. 
 
-Then, for each hex, draw a power card. If it has `Create` as the intent, add the object on the card to the hex.
+Then, for each hex, draw a power card. Add the object on the card to the hex.
 
 Then, shuffle all power cards, and all ruler cards. Deal four cards of each type to each player. Last person to affect the landscape goes first.
 
 
 ## Gameplay
 
+(2 options for play)
+
+Option 1:
 On your turn, you must play all four cards in your hand.
 
 To speak, pick two cards. Use the intent (verb) of one, and the object (noun) of another. This will let you add, remove, or move a cube.
@@ -48,6 +51,9 @@ To speak, pick two cards. Use the intent (verb) of one, and the object (noun) of
 Each time you speak, you may appease a ruler card from your hand. Draw a new ruler.
 
 After you've played all cards in your hand, draw 4 more cards, then move to the next player.
+
+Option 2:
+To speak, play two cards, one upside down. Cast both spells shown. Draw 2 replacement cards.
 
 ## Game End and Scoring
 
@@ -90,3 +96,10 @@ Stealth: Dagger by Madeleine Bennett from the Noun Project
 Religion: Celtic Knot by Martin Smith from the Noun Project
 Might: Shield by Creative Stall from the Noun Project
 
+
+House by William Felker from the Noun Project
+Piggy Bank by Andrea Bobadilla from the Noun Project
+Water by Edward Boatman from the Noun Project
+Mountains by Vittorio Maria Vecchi from the Noun Project
+Leaf by Mark Caron from the Noun Project
+Star by Edward Boatman from the Noun Project
